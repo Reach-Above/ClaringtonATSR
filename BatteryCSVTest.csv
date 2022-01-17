@@ -1,0 +1,17 @@
+﻿ID,Roll,Ownership,Acreage,TotalAcreage,PriceAgreement,ArchaeologicalStudy,ArchaeologicalClearance,SARStudy,SARClearance
+A,,Pointe East,20.2,161.27,Yes,Yes,Yes,Yes,No
+B,,Pointe East,48.34,,Yes,Yes,Yes,Yes,No
+C,,Pointe East,64.65,,Yes,Yes,Yes,Yes,No
+D,,Pointe East,10,,Yes,Yes,Yes,Yes,No
+E,,Pointe East,8,,Yes,Yes,Yes,Yes,No
+F,,Pointe East,3.08,,Yes,Yes,Yes,Yes,No
+G,,Pointe East,7,,Yes,Yes,Yes,Yes,No
+H,,City of Windsor,7.55,42.42,N/A,Partial,No,Partial,No
+I,,City of Windsor,1.3,,N/A,Partial,No,Partial,No
+J,,City of Windsor,3.08,,N/A,Partial,No,Partial,No
+K,,City of Windsor,10.13,,N/A,Partial,No,Partial,No
+L,,City of Windsor,20.36,,N/A,Partial,No,Partial,No
+M,,CS Wind,3.11,11.79,Yes,Partial,No,Partial,No
+N,,CS Wind,8.68,,Yes,Partial,No,Partial,No
+O,,Valwinco,7.85,7.85,No,Partial,No,Partial,No
+P,,Jayesh Bhatt,1,1,No,No,No,No,No
