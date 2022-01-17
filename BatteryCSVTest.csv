@@ -1,4 +1,4 @@
-UID,Roll,Ownership,Acreage,TotalAcreage,PriceAgreement,ArchaeologicalStudy,ArchaeologicalClearance,SARStudy,SARClearance
+UUID,Roll,Ownership,Acreage,TotalAcreage,PriceAgreement,ArchaeologicalStudy,ArchaeologicalClearance,SARStudy,SARClearance
 A,,Pointe East,20.2,161.27,Yes,Yes,Yes,Yes,No
 B,,Pointe East,48.34,,Yes,Yes,Yes,Yes,No
 C,,Pointe East,64.65,,Yes,Yes,Yes,Yes,No
