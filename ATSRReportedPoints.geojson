@@ -5,7 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "id": "1", "Issue": "Entrance to Trail incomplete and unsafe", "Location": "Lambs Rd, enterance to Toyota Trail" }, "geometry": { "type": "Point", "coordinates": [ -78.657602018471096, 43.908160814097933, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "2", "Issue": "Lack of Bike Racks", "Location": "Historic Downtown Areas" }, "geometry": { "type": "Point", "coordinates": [ -78.689284, 43.912344, 0.0 ] } },
-{ "type": "Feature", "properties": { "id": "3", "Issue": "Cycle Sharrows", "Location": "Concession West of Liberty" }, "geometry": { "type": "Point", "coordinates": [ -78.689284, 43.912344, 0.0 ] } },
-{ "type": "Feature", "properties": { "id": "4", "Issue": "Lack of Bike Racks", "Location": "Historic Downtown Areas" }, "geometry": { "type": "Point", "coordinates": [ -78.683748, 43.918136, 0.0 ] } }
+{ "type": "Feature", "properties": { "id": "3", "Issue": "Lack of Bike Racks", "Location": "Historic Downtown Areas" }, "geometry": { "type": "Point", "coordinates": [ -78.689284, 43.912344, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "4", "Issue": "Cycle Sharrows", "Location": "Concession West of Liberty" }, "geometry": { "type": "Point", "coordinates": [ -78.683748, 43.918136, 0.0 ] } }
 ]
 }
